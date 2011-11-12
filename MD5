@@ -1,0 +1,16 @@
+4fdb02075faa42ea4839679fef16f9a1 *DESCRIPTION
+f8f579576424d76244f72c92bf0eedd3 *NAMESPACE
+2dee0409cdc96edfef044bcbba75c19c *R/ACE.R
+b6990dffb61d54e5a9c7ddab7a0ac2d4 *R/CVcov.R
+3593f341d4a4c9e01c3dad21cb79d9f5 *R/MNloglike.R
+d0e75e311d4ea8a4d55c2317b081bda7 *R/TransSphere.R
+6f8ea9c5b817b4ef942e6a4f2978c567 *R/Tsphere-internal.R
+6975a823ceb652a081c4395b0df874af *R/covTranspose11.R
+da7f3bf8db474217dcd5aa91431b87ba *R/meanTranspose.R
+2400aba600ae5d93019b684cfe0969d9 *man/ACE.Rd
+a9fa108785c6425efbea58531130189d *man/CVcov.Rd
+9c632f5dce4c484922ac553da11f6a35 *man/MNloglike.Rd
+641166f1e0b46c23fa8bf5f0592f72df *man/TransSphere.Rd
+6d95ffe0e89b45a68b7100534c9b2e7a *man/Tsphere-internal.Rd
+a00f964c77e51d6c31ad4c4e89363807 *man/covTranspose11.Rd
+6bf95513aeccf963ccd577d8c9e7efd5 *man/meanTranspose.Rd
